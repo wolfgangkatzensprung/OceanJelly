@@ -165,7 +165,6 @@ public class GlyphPuzzle : Singleton<GlyphPuzzle>
 
     private void MoveFurthestToCenter(Vector2 roomCenter)
     {
-
         // Move the furthest glyph to the center
         GameObject furthestGlyph = FindFurthestObject(glyphParent.transform, roomCenter);
         MoveObjectToCenter(furthestGlyph, roomCenter);

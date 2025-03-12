@@ -12,7 +12,6 @@ public class PlayerManager : MonoBehaviour
     public GameObject playerAttack;
     public Transform playerTrans;
 
-
     public Rigidbody2D rb;
     public Animator anim;
     public Animator attackAnim;
@@ -307,20 +306,20 @@ public class PlayerManager : MonoBehaviour
     public void DisablePlayer()
     {
         DisableMovement();
-        DisableAttack();
+        //DisableAttack();
         //DisableJump();
     }
     public void DisablePlayerWithoutStop()
     {
         DisableMovement();
-        DisableAttack();
+        //DisableAttack();
         //DisableJump();
     }
 
     public void EnablePlayer()
     {
         EnableMovement();
-        EnableAttack();
+        //EnableAttack();
         //EnableJump();
     }
 
