@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 6ba5c5c18a30fd1428e0376ad6e5816d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 94517551654706469
+    second: 910918_QualleOrangePH_0
+  - first:
+      213: 1792929795760485207
+    second: 910918_QualleOrangePH_1
+  - first:
+      213: 7011413153627577480
+    second: 910918_QualleOrangePH_2
+  - first:
+      213: 5107489370535904067
+    second: 910918_QualleOrangePH_3
+  - first:
+      213: -7685481715965791213
+    second: 910918_QualleOrangePH_4
+  - first:
+      213: 324830034441137258
+    second: 910918_QualleOrangePH_5
+  - first:
+      213: -837710509797809581
+    second: 910918_QualleOrangePH_6
+  - first:
+      213: -3081239257922576912
+    second: 910918_QualleOrangePH_7
+  - first:
+      213: 8935819817570089268
+    second: 910918_QualleOrangePH_8
+  - first:
+      213: 3211219953335720213
+    second: 910918_QualleOrangePH_9
+  - first:
+      213: -7211810905838397980
+    second: 910918_QualleOrangePH_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 910918_QualleOrangePH_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 745
+        width: 521
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484a48202d25afd449bd0c42d9a61ff3
+      internalID: 94517551654706469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 910918_QualleOrangePH_1
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 745
+        width: 530
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dca62a70b0974419cb65844bcb9bf8
+      internalID: 1792929795760485207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 910918_QualleOrangePH_2
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 757
+        width: 520
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8656ec57d1969c149a97b5c0cccd5ea4
+      internalID: 7011413153627577480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 910918_QualleOrangePH_3
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 850
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e02f5d2f1b11604b836f2ba0a9fa9c7
+      internalID: 5107489370535904067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 910918_QualleOrangePH_4
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 760
+        width: 486
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc619c482a595845b6e3f9fffda97ce
+      internalID: -7685481715965791213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 910918_QualleOrangePH_5
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 770
+        width: 443
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501470e900b3d314484ff5988c7c6516
+      internalID: 324830034441137258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 910918_QualleOrangePH_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 182
+        width: 416
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14242bb8b7bd97b43bca8666d8caf10f
+      internalID: -837710509797809581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 910918_QualleOrangePH_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 169
+        width: 406
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69d987a3a55d1648a03f550ef84d81e
+      internalID: -3081239257922576912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 910918_QualleOrangePH_8
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 184
+        width: 435
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b832ab994180fc42aac39134ce517a4
+      internalID: 8935819817570089268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 910918_QualleOrangePH_9
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 176
+        width: 459
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef4b372ec416594ca6820a9f00589dd
+      internalID: 3211219953335720213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 910918_QualleOrangePH_10
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 181
+        width: 467
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2528fc536d36648ba2773585002ed4
+      internalID: -7211810905838397980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ad21743ff3f405e4cbd2e50af23843aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      910918_QualleOrangePH_6: -837710509797809581
+      910918_QualleOrangePH_1: 1792929795760485207
+      910918_QualleOrangePH_0: 94517551654706469
+      910918_QualleOrangePH_7: -3081239257922576912
+      910918_QualleOrangePH_2: 7011413153627577480
+      910918_QualleOrangePH_3: 5107489370535904067
+      910918_QualleOrangePH_5: 324830034441137258
+      910918_QualleOrangePH_10: -7211810905838397980
+      910918_QualleOrangePH_4: -7685481715965791213
+      910918_QualleOrangePH_8: 8935819817570089268
+      910918_QualleOrangePH_9: 3211219953335720213
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

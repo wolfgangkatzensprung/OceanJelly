@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: a8ef4efcb2cf47d45ad93b1e4c623a72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5230967424500935514
+    second: 190828_B.Kammer_0
+  - first:
+      213: 8357935317586045678
+    second: 190828_B.Kammer_1
+  - first:
+      213: -8782552248997903618
+    second: 190828_B.Kammer_2
+  - first:
+      213: 5548727764265713204
+    second: 190828_B.Kammer_3
+  - first:
+      213: -4631830996419482421
+    second: 190828_B.Kammer_4
+  - first:
+      213: -554214606279290896
+    second: 190828_B.Kammer_5
+  - first:
+      213: -4439790375127769485
+    second: 190828_B.Kammer_6
+  - first:
+      213: 8079550846895346390
+    second: 190828_B.Kammer_7
+  - first:
+      213: -6190725479786729304
+    second: 190828_B.Kammer_8
+  - first:
+      213: 4441026048628151382
+    second: 190828_B.Kammer_9
+  - first:
+      213: 4297032135680793470
+    second: 190828_B.Kammer_10
+  - first:
+      213: 3184933587036285268
+    second: 190828_B.Kammer_11
+  - first:
+      213: -84415468548398093
+    second: 190828_B.Kammer_12
+  - first:
+      213: 8390785021514876556
+    second: 190828_B.Kammer_13
+  - first:
+      213: 3292210042097876392
+    second: 190828_B.Kammer_14
+  - first:
+      213: 8542552932860976521
+    second: 190828_B.Kammer_15
+  - first:
+      213: -7458174598656975737
+    second: 190828_B.Kammer_16
+  - first:
+      213: -3706831768929508809
+    second: 190828_B.Kammer_17
+  - first:
+      213: -8871017779599994621
+    second: 190828_B.Kammer_18
+  - first:
+      213: 2363223023201824306
+    second: 190828_B.Kammer_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 190828_B.Kammer_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4717
+        width: 1494
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a0a7fdc7c8d15488154a69a2d3d28a
+      internalID: -5230967424500935514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_1
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 3417
+        width: 685
+        height: 1464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d82bde93b82f0440ba686aae4108557
+      internalID: 8357935317586045678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4222
+        width: 1245
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de2a8a8c2fbac48b692d2f39dcf1e5
+      internalID: -8782552248997903618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_3
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 4221
+        width: 1095
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db889204120a3e4185257e255f3536f
+      internalID: 5548727764265713204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_4
+      rect:
+        serializedVersion: 2
+        x: 5186
+        y: 2623
+        width: 710
+        height: 1614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402a01fa7e9d5b244842d1c3a358ccf0
+      internalID: -4631830996419482421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3660
+        width: 1460
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21382580d31dc2409c4425335ac1297
+      internalID: -554214606279290896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_6
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 3675
+        width: 1640
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f238fd036462343b6b5f256200a633
+      internalID: -4439790375127769485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3019
+        width: 2728
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7891e91389edd8a49825d00d04c4657f
+      internalID: 8079550846895346390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_8
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 2788
+        width: 1602
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf44ad90cfecf1f4cbad5103db645057
+      internalID: -6190725479786729304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_9
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2521
+        width: 827
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2afacdcb3823b141aca8a85bcf36a12
+      internalID: 4441026048628151382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_10
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 300
+        width: 302
+        height: 2071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716f0aa2b337b4847ad8856223ff01ee
+      internalID: 4297032135680793470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_11
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 131
+        width: 707
+        height: 2254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64db96f0c7540d4586c70ddf7279175
+      internalID: 3184933587036285268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_12
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 131
+        width: 305
+        height: 2105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616b520b0d90d1e41a0d7e66b5d3bca8
+      internalID: -84415468548398093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_13
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1727
+        width: 1011
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad2c4c117bc12e40872d92546d2c1f7
+      internalID: 8390785021514876556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_14
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 1730
+        width: 997
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5cac202de8c904697785917e184bf9
+      internalID: 3292210042097876392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_15
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 348
+        width: 673
+        height: 1650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c298a6a5c4a3c324ea0609d7ef596ecf
+      internalID: 8542552932860976521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_16
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 1044
+        width: 1005
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1b22f382a9164418757a4e82dcf729
+      internalID: -7458174598656975737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_17
+      rect:
+        serializedVersion: 2
+        x: 4056
+        y: 985
+        width: 840
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bc1f51d977ca346b41b75603becbf5
+      internalID: -3706831768929508809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_18
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 300
+        width: 1089
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b696a0a60b404489273e3b98015023
+      internalID: -8871017779599994621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190828_B.Kammer_19
+      rect:
+        serializedVersion: 2
+        x: 4062
+        y: 349
+        width: 842
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4621bc63b0d26a041b7c59b3dfbbcd3b
+      internalID: 2363223023201824306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ad21743ff3f405e4cbd2e50af23843aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      190828_B.Kammer_7: 8079550846895346390
+      190828_B.Kammer_17: -3706831768929508809
+      190828_B.Kammer_1: 8357935317586045678
+      190828_B.Kammer_14: 3292210042097876392
+      190828_B.Kammer_0: -5230967424500935514
+      190828_B.Kammer_10: 4297032135680793470
+      190828_B.Kammer_2: -8782552248997903618
+      190828_B.Kammer_13: 8390785021514876556
+      190828_B.Kammer_4: -4631830996419482421
+      190828_B.Kammer_3: 5548727764265713204
+      190828_B.Kammer_8: -6190725479786729304
+      190828_B.Kammer_19: 2363223023201824306
+      190828_B.Kammer_6: -4439790375127769485
+      190828_B.Kammer_12: -84415468548398093
+      190828_B.Kammer_9: 4441026048628151382
+      190828_B.Kammer_5: -554214606279290896
+      190828_B.Kammer_18: -8871017779599994621
+      190828_B.Kammer_11: 3184933587036285268
+      190828_B.Kammer_15: 8542552932860976521
+      190828_B.Kammer_16: -7458174598656975737
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 9970ed563f049b74295aa2bd7a00ac9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6767896619936038385
+    second: 191027_SchneckePatAnim_0
+  - first:
+      213: 3801514744206983175
+    second: 191027_SchneckePatAnim_1
+  - first:
+      213: -8081752134895355827
+    second: 191027_SchneckePatAnim_2
+  - first:
+      213: -6525223669972003844
+    second: 191027_SchneckePatAnim_3
+  - first:
+      213: 7874490183952742729
+    second: 191027_SchneckePatAnim_4
+  - first:
+      213: 841633666213232147
+    second: 191027_SchneckePatAnim_5
+  - first:
+      213: 1601929386256597401
+    second: 191027_SchneckePatAnim_6
+  - first:
+      213: -4307348445310909077
+    second: 191027_SchneckePatAnim_7
+  - first:
+      213: 3682485396265933215
+    second: 191027_SchneckePatAnim_8
+  - first:
+      213: 2557645193009556629
+    second: 191027_SchneckePatAnim_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 191027_SchneckePatAnim_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 534
+        width: 580
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60dc453c9d45e14f8cea69ee9460a7e
+      internalID: 6767896619936038385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 191027_SchneckePatAnim_1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 534
+        width: 579
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f970292f7f29c499a29b01a8d82719
+      internalID: 3801514744206983175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 191027_SchneckePatAnim_2
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 537
+        width: 559
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ffe40dc7da321439061c330bc1b3a6
+      internalID: -8081752134895355827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 191027_SchneckePatAnim_3
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 537
+        width: 559
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92dd9446775493449aade8018d78830
+      internalID: -6525223669972003844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 191027_SchneckePatAnim_4
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 542
+        width: 561
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6194c67fe236a64b940a996a8cb360b
+      internalID: 7874490183952742729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 191027_SchneckePatAnim_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 30
+        width: 561
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efab6d5e3b6e8474884e3661c57f9535
+      internalID: 841633666213232147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 191027_SchneckePatAnim_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 30
+        width: 545
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77deea49243f1447a36980da81d1725
+      internalID: 1601929386256597401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 191027_SchneckePatAnim_7
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 30
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165743d75bf4afc408f4f604885d8ccc
+      internalID: -4307348445310909077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 191027_SchneckePatAnim_8
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 25
+        width: 559
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614c25f1b9be734468d1215e2b456df5
+      internalID: 3682485396265933215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 191027_SchneckePatAnim_9
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 25
+        width: 560
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04f5be36dcfa5f469b5118fcfa10f98
+      internalID: 2557645193009556629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ad21743ff3f405e4cbd2e50af23843aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      191027_SchneckePatAnim_0: 6767896619936038385
+      191027_SchneckePatAnim_7: -4307348445310909077
+      191027_SchneckePatAnim_8: 3682485396265933215
+      191027_SchneckePatAnim_3: -6525223669972003844
+      191027_SchneckePatAnim_5: 841633666213232147
+      191027_SchneckePatAnim_9: 2557645193009556629
+      191027_SchneckePatAnim_6: 1601929386256597401
+      191027_SchneckePatAnim_2: -8081752134895355827
+      191027_SchneckePatAnim_1: 3801514744206983175
+      191027_SchneckePatAnim_4: 7874490183952742729
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

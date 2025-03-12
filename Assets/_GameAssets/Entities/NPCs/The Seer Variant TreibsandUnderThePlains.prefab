@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!61 &1260707079
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6616237008494305677}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -5.4, y: -21.2}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 12.46875, y: 21.09375}
+    newSize: {x: 5, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 155, y: 49.5}
+  m_EdgeRadius: 0
+--- !u!114 &1260707076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6616237008494305677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469e8db1a19fa234db34f3ec658e04fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  catchphrases:
+  - Take this. But be careful, I can't help you next time.
+  - '.......................'
+  - Oh well. Nevermind. Here we go.
+  - Please don't let me down. I believe in you.
+  spawnObject: 01000000
+  objectToSpawn:
+  - {fileID: 7978664677115239670, guid: 10b1023bdb3542b4abea61d40a653c56, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  spawnOffset: {x: -2.18, y: 0}
+  enablerMode: 00000100
+  stopMusic: 00010000
+  grantAbility:
+  - 
+  - 
+  - 
+  - 
+  despawnObject: 00000001
+  objectToDespawn:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 6616237008494305677}
+  disappearDelay: 3
+--- !u!1001 &4901874733612715584
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2294423035163865037, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_Name
+      value: The Seer
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865037, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_Layer
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865037, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865031, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 211.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865031, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -23
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865031, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865031, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865031, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865031, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865031, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865031, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865031, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865031, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865031, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865036, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: catchphrase
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865028, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: dialogueInfo.Array.data[0].sentences.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865028, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: dialogueInfo.Array.data[0].sentences.Array.data[0]
+      value: Oh! You're already stuck?!
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865028, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: dialogueInfo.Array.data[0].sentences.Array.data[1]
+      value: Hmm. They called you the chosen one.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865028, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: dialogueInfo.Array.data[0].sentences.Array.data[2]
+      value: Our last chance...
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865028, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: dialogueInfo.Array.data[0].sentences.Array.data[3]
+      value: '...........'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865028, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: dialogueInfo.Array.data[0].sentences.Array.data[4]
+      value: Take this. But be careful, I can't help you next time.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865028, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: dialogueInfo.Array.data[0].sentences.Array.data[5]
+      value: '.......................'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865028, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: dialogueInfo.Array.data[0].sentences.Array.data[6]
+      value: Oh well. Nevermind. Here we go.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2294423035163865028, guid: d51725cca7341254782b3f20d1d70179,
+        type: 3}
+      propertyPath: dialogueInfo.Array.data[0].sentences.Array.data[7]
+      value: Please don't let me down. I believe in you.
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d51725cca7341254782b3f20d1d70179, type: 3}
+--- !u!1 &6616237008494305677 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2294423035163865037, guid: d51725cca7341254782b3f20d1d70179,
+    type: 3}
+  m_PrefabInstance: {fileID: 4901874733612715584}
+  m_PrefabAsset: {fileID: 0}

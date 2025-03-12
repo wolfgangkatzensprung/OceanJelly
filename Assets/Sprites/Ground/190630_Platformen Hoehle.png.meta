@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: c0966e3a0ef938144b7388e95a88ea4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5827760284256262586
+    second: 190630_Platformen Hoehle 1_0
+  - first:
+      213: 1187117163262177593
+    second: 190630_Platformen Hoehle 1_1
+  - first:
+      213: 6188495408252570461
+    second: 190630_Platformen Hoehle 1_2
+  - first:
+      213: 6291868572083750851
+    second: 190630_Platformen Hoehle 1_3
+  - first:
+      213: -6304986770741350204
+    second: 190630_Platformen Hoehle 1_4
+  - first:
+      213: -7684849165569341558
+    second: 190630_Platformen Hoehle 1_5
+  - first:
+      213: -7177040449293257590
+    second: 190630_Platformen Hoehle 1_6
+  - first:
+      213: 1801701964390974791
+    second: 190630_Platformen Hoehle 1_7
+  - first:
+      213: 5101130980128038084
+    second: 190630_Platformen Hoehle 1_8
+  - first:
+      213: -2392662661148090854
+    second: 190630_Platformen Hoehle 1_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 190630_Platformen Hoehle 1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1587
+        width: 2192
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5494fa8c827f1804795c3fbe5540b163
+      internalID: 5827760284256262586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190630_Platformen Hoehle 1_1
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 1604
+        width: 1628
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361776b91dd8327469b336e2e22c5f48
+      internalID: 1187117163262177593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190630_Platformen Hoehle 1_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1070
+        width: 2115
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856dde8cd02a534685c7a7c1bedef65
+      internalID: 6188495408252570461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190630_Platformen Hoehle 1_3
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 1096
+        width: 1564
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850007227fc6b0e4b9b014520ea83f98
+      internalID: 6291868572083750851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190630_Platformen Hoehle 1_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 642
+        width: 905
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1782e095126821547b0f03a1ef255fb1
+      internalID: -6304986770741350204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190630_Platformen Hoehle 1_5
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 587
+        width: 901
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eaf1b643cbb344292d5a698c2fe31c
+      internalID: -7684849165569341558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190630_Platformen Hoehle 1_6
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 642
+        width: 1560
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738920abdb89ef54e8bf993e3f9c1bdf
+      internalID: -7177040449293257590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190630_Platformen Hoehle 1_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 89
+        width: 742
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d433d596d8f1ef4190ff723205c0508
+      internalID: 1801701964390974791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190630_Platformen Hoehle 1_8
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 123
+        width: 901
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5761b11f4a76246a17f13730588745
+      internalID: 5101130980128038084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190630_Platformen Hoehle 1_9
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 5
+        width: 754
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6dc206b7b36d8429350363a231fc0e
+      internalID: -2392662661148090854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ad21743ff3f405e4cbd2e50af23843aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      190630_Platformen Hoehle 1_0: 5827760284256262586
+      190630_Platformen Hoehle 1_8: 5101130980128038084
+      190630_Platformen Hoehle 1_7: 1801701964390974791
+      190630_Platformen Hoehle 1_1: 1187117163262177593
+      190630_Platformen Hoehle 1_2: 6188495408252570461
+      190630_Platformen Hoehle 1_3: 6291868572083750851
+      190630_Platformen Hoehle 1_5: -7684849165569341558
+      190630_Platformen Hoehle 1_6: -7177040449293257590
+      190630_Platformen Hoehle 1_4: -6304986770741350204
+      190630_Platformen Hoehle 1_9: -2392662661148090854
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: 0b04b5f542d2f284fbf94c8ef516fe7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7259412850348032866
+    second: MuschelSpikes_0
+  - first:
+      213: -7412234362666855721
+    second: MuschelSpikes_1
+  - first:
+      213: -3305640420692315802
+    second: MuschelSpikes_2
+  - first:
+      213: -4451455118808417188
+    second: MuschelSpikes_3
+  - first:
+      213: 6438770925012473048
+    second: MuschelSpikes_4
+  - first:
+      213: 1673957675914795623
+    second: MuschelSpikes_5
+  - first:
+      213: -3972427765495925115
+    second: MuschelSpikes_6
+  - first:
+      213: 1936764129526390807
+    second: MuschelSpikes_7
+  - first:
+      213: 3885874737928520998
+    second: MuschelSpikes_8
+  - first:
+      213: 7211139400596207328
+    second: MuschelSpikes_9
+  - first:
+      213: 4885575340951051756
+    second: MuschelSpikes_10
+  - first:
+      213: -151554850619193066
+    second: MuschelSpikes_11
+  - first:
+      213: 5233900949114219782
+    second: MuschelSpikes_12
+  - first:
+      213: -5229667009640962982
+    second: MuschelSpikes_13
+  - first:
+      213: -961929735393084425
+    second: MuschelSpikes_14
+  - first:
+      213: 1455716038591426685
+    second: MuschelSpikes_15
+  - first:
+      213: -2850776227072147353
+    second: MuschelSpikes_16
+  - first:
+      213: 368474417965942066
+    second: MuschelSpikes_17
+  - first:
+      213: -320786245058150569
+    second: MuschelSpikes_18
+  - first:
+      213: -217377406422532260
+    second: MuschelSpikes_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MuschelSpikes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 1339
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26386ee768d9eb460800000000000000
+      internalID: 7259412850348032866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuschelSpikes_1
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1354
+        width: 1487
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d25c4d6e14722990800000000000000
+      internalID: -7412234362666855721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuschelSpikes_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 696
+        width: 1203
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66136792d810022d0800000000000000
+      internalID: -3305640420692315802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuschelSpikes_3
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 754
+        width: 1443
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c74dd77214932c0800000000000000
+      internalID: -4451455118808417188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuschelSpikes_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 380
+        width: 1237
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a90f123a71b3710800000000000000
+      internalID: 1673957675914795623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuschelSpikes_8
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 400
+        width: 1239
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625c4e36c766de530800000000000000
+      internalID: 3885874737928520998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuschelSpikes_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 76
+        width: 1242
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5465cc009d7c67b0800000000000000
+      internalID: -5229667009640962982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuschelSpikes_16
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 87
+        width: 1235
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7608c3320220078d0800000000000000
+      internalID: -2850776227072147353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a1078aa337ff16f4abd235ac3e508e28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MuschelSpikes_5: 1673957675914795623
+      MuschelSpikes_0: 7259412850348032866
+      MuschelSpikes_1: -7412234362666855721
+      MuschelSpikes_8: 3885874737928520998
+      MuschelSpikes_13: -5229667009640962982
+      MuschelSpikes_3: -4451455118808417188
+      MuschelSpikes_2: -3305640420692315802
+      MuschelSpikes_16: -2850776227072147353
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

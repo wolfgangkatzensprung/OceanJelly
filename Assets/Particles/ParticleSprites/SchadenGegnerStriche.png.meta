@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 27740bf1cd8ad08448e660b758a6f8c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9134347592852826447
+    second: SchadenGegnerStriche_0
+  - first:
+      213: -2586575646109081750
+    second: SchadenGegnerStriche_1
+  - first:
+      213: 4735630785324285689
+    second: SchadenGegnerStriche_2
+  - first:
+      213: -8121556490143868656
+    second: SchadenGegnerStriche_3
+  - first:
+      213: -5418281712903420546
+    second: SchadenGegnerStriche_4
+  - first:
+      213: 2378898556224714281
+    second: SchadenGegnerStriche_5
+  - first:
+      213: 7749181074258532347
+    second: SchadenGegnerStriche_6
+  - first:
+      213: 7447183782748932147
+    second: SchadenGegnerStriche_7
+  - first:
+      213: 2381885540397209294
+    second: SchadenGegnerStriche_0
+  - first:
+      213: 7652775910008150240
+    second: SchadenGegnerStriche_1
+  - first:
+      213: -4948455528164668889
+    second: SchadenGegnerStriche_2
+  - first:
+      213: 2583844689682301285
+    second: SchadenGegnerStriche_3
+  - first:
+      213: -1475078773199913730
+    second: SchadenGegnerStriche_4
+  - first:
+      213: -7866247065999367544
+    second: SchadenGegnerStriche_5
+  - first:
+      213: -5713533282411396778
+    second: SchadenGegnerStriche_7
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SchadenGegnerStriche_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 12
+        width: 24
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d30b77482e0120800000000000000
+      internalID: -9134347592852826447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchadenGegnerStriche_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 23
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8d3bdd42f143a60800000000000000
+      internalID: -2586575646109081750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchadenGegnerStriche_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 59
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a4de84aed835bb0800000000000000
+      internalID: 4735630785324285689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchadenGegnerStriche_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 21
+        width: 42
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5610b433e09abd320800000000000000
+      internalID: -8121556490143868656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchadenGegnerStriche_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 8
+        width: 31
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc33bbcba7778be0800000000000000
+      internalID: -5418281712903420546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchadenGegnerStriche_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 44
+        width: 16
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88226ab78f975d290800000000000000
+      internalID: 2378898556224714281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchadenGegnerStriche_7
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 54
+        width: 13
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6514f7150c375b0b0800000000000000
+      internalID: 7447183782748932147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a1078aa337ff16f4abd235ac3e508e28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SchadenGegnerStriche_1: -2586575646109081750
+      SchadenGegnerStriche_3: -8121556490143868656
+      SchadenGegnerStriche_5: 2378898556224714281
+      SchadenGegnerStriche_2: 4735630785324285689
+      SchadenGegnerStriche_7: 7447183782748932147
+      SchadenGegnerStriche_0: -9134347592852826447
+      SchadenGegnerStriche_4: -5418281712903420546
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

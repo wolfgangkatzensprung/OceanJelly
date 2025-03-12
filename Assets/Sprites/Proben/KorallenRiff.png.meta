@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 564cf9ecb0fb39845affdfddf56faafa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1528466679796959863
+    second: KorallenRiff_0
+  - first:
+      213: 3490881879447990957
+    second: KorallenRiff_1
+  - first:
+      213: 419626477713464670
+    second: KorallenRiff_2
+  - first:
+      213: 5296401508413388268
+    second: KorallenRiff_3
+  - first:
+      213: -5466145142670577282
+    second: KorallenRiff_4
+  - first:
+      213: 7879979282797901189
+    second: KorallenRiff_5
+  - first:
+      213: 7807347744349091468
+    second: KorallenRiff_6
+  - first:
+      213: -3233704562127752228
+    second: KorallenRiff_7
+  - first:
+      213: -5253623372596517627
+    second: KorallenRiff_8
+  - first:
+      213: 8524757242006112258
+    second: KorallenRiff_9
+  - first:
+      213: 5732371506709727604
+    second: KorallenRiff_10
+  - first:
+      213: 2367930093048163428
+    second: KorallenRiff_11
+  - first:
+      213: 8319430232160743725
+    second: KorallenRiff_12
+  - first:
+      213: 5167899187465374710
+    second: KorallenRiff_13
+  - first:
+      213: 7648416890094093067
+    second: KorallenRiff_14
+  - first:
+      213: -8369766142363761131
+    second: KorallenRiff_15
+  - first:
+      213: 708823067402356670
+    second: KorallenRiff_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KorallenRiff_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 798
+        width: 288
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a815cd854363510800000000000000
+      internalID: 1528466679796959863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 808
+        width: 373
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da27859e29a127030800000000000000
+      internalID: 3490881879447990957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 823
+        width: 297
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d9576ee00d2d500800000000000000
+      internalID: 419626477713464670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_3
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 832
+        width: 339
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5b2d04c19908940800000000000000
+      internalID: 5296401508413388268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_4
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 808
+        width: 205
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71b46024f95424b0800000000000000
+      internalID: -5466145142670577282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 583
+        width: 235
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5853b94686f4b5d60800000000000000
+      internalID: 7879979282797901189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 525
+        width: 211
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ffdb8865495c60800000000000000
+      internalID: 7807347744349091468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 509
+        width: 196
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3b0d965d29f13d0800000000000000
+      internalID: -3233704562127752228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_8
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 400
+        width: 135
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505e1b4a0616717b0800000000000000
+      internalID: -5253623372596517627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_9
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 536
+        width: 175
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2088636ab850e4670800000000000000
+      internalID: 8524757242006112258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_10
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 526
+        width: 159
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479010293897d8f40800000000000000
+      internalID: 5732371506709727604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_11
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 528
+        width: 144
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ce711bfd39cd020800000000000000
+      internalID: 2367930093048163428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 304
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d213699c7bd847370800000000000000
+      internalID: 8319430232160743725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 195
+        width: 354
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb47e72ee018b740800000000000000
+      internalID: 5167899187465374710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_14
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 200
+        width: 314
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03082473a2a42a60800000000000000
+      internalID: 7648416890094093067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_15
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 88
+        width: 448
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5160157d90e98db80800000000000000
+      internalID: -8369766142363761131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KorallenRiff_16
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 142
+        width: 192
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ce1503de36d900800000000000000
+      internalID: 708823067402356670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a1078aa337ff16f4abd235ac3e508e28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KorallenRiff_15: -8369766142363761131
+      KorallenRiff_5: 7879979282797901189
+      KorallenRiff_1: 3490881879447990957
+      KorallenRiff_3: 5296401508413388268
+      KorallenRiff_12: 8319430232160743725
+      KorallenRiff_0: 1528466679796959863
+      KorallenRiff_7: -3233704562127752228
+      KorallenRiff_10: 5732371506709727604
+      KorallenRiff_6: 7807347744349091468
+      KorallenRiff_9: 8524757242006112258
+      KorallenRiff_8: -5253623372596517627
+      KorallenRiff_16: 708823067402356670
+      KorallenRiff_14: 7648416890094093067
+      KorallenRiff_11: 2367930093048163428
+      KorallenRiff_2: 419626477713464670
+      KorallenRiff_4: -5466145142670577282
+      KorallenRiff_13: 5167899187465374710
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

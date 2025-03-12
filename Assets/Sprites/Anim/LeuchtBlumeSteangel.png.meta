@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: f3ce298d289ce6749923bcd9070c31ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4218801045861593977
+    second: LeuchtBlumeSteangel_0
+  - first:
+      213: 8215592110893744074
+    second: LeuchtBlumeSteangel_1
+  - first:
+      213: -1177282666509545087
+    second: LeuchtBlumeSteangel_2
+  - first:
+      213: 7024368216230017139
+    second: LeuchtBlumeSteangel_3
+  - first:
+      213: -4279273663358002085
+    second: LeuchtBlumeSteangel_4
+  - first:
+      213: 2581188274112307527
+    second: LeuchtBlumeSteangel_5
+  - first:
+      213: -5160249311976910447
+    second: LeuchtBlumeSteangel_6
+  - first:
+      213: -914217358565247568
+    second: LeuchtBlumeSteangel_7
+  - first:
+      213: -7944600614067361923
+    second: LeuchtBlumeSteangel_8
+  - first:
+      213: -4877817996506500193
+    second: LeuchtBlumeSteangel_9
+  - first:
+      213: -7951411786436176336
+    second: LeuchtBlumeSteangel_10
+  - first:
+      213: 8679794046672197773
+    second: LeuchtBlumeSteangel_11
+  - first:
+      213: 6114584153808442012
+    second: LeuchtBlumeSteangel_12
+  - first:
+      213: -6059504519377885045
+    second: LeuchtBlumeSteangel_13
+  - first:
+      213: 7909823192424038784
+    second: LeuchtBlumeSteangel_14
+  - first:
+      213: 3829727593470829746
+    second: LeuchtBlumeSteangel_15
+  - first:
+      213: -6830007691651132737
+    second: LeuchtBlumeSteangel_16
+  - first:
+      213: -6813214697759217538
+    second: LeuchtBlumeSteangel_17
+  - first:
+      213: -1067483849031336561
+    second: LeuchtBlumeSteangel_18
+  - first:
+      213: -2326336473155948299
+    second: LeuchtBlumeSteangel_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fde865da25d3b4f9ac452c5fbd7123
+      internalID: 4218801045861593977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 276
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879cbceda42ff8d42b832d4d1ed0d4a4
+      internalID: 8215592110893744074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 276
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5de511fd65a01b459406f3db01016a8
+      internalID: -1177282666509545087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 276
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5e1efcffb17a1468478eebace34148
+      internalID: 7024368216230017139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 276
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414e4ccac6fb44846a6e1a1014ccb70d
+      internalID: -4279273663358002085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_5
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 276
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1c72de3b34ef040a3f86c208f89e56
+      internalID: 2581188274112307527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_6
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 276
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc2972469e4d8f4f8dc9212e9ce5e5c
+      internalID: -5160249311976910447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_7
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 276
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eef13b7649d4744eb89b4e498da68cd
+      internalID: -914217358565247568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_8
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 276
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0772ebbb92b8f384aa11ecfe90309b7d
+      internalID: -7944600614067361923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_9
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 276
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216c9ebb508fb7b4a853d313022aa1b0
+      internalID: -4877817996506500193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850a002a88d25394599824ff7a2e9691
+      internalID: -7951411786436176336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b267d87f2584cda4ab57d0c94d40621b
+      internalID: 8679794046672197773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c933781c2bbf6c45914b61bfb1d3659
+      internalID: 6114584153808442012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b392a709c77236945a0d82ba03e1e108
+      internalID: -6059504519377885045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b67f87a2c2322d4dae23223e798a694
+      internalID: 7909823192424038784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_15
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3636ace44258ddc4faf6847516f243fd
+      internalID: 3829727593470829746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_16
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 0
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e142dd501412634184fe505652e1cf3
+      internalID: -6830007691651132737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_17
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 0
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6673eb87c82f0b846abbdb9d5c581b11
+      internalID: -6813214697759217538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_18
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6b035c6cc71054c89d00ab62091b5f
+      internalID: -1067483849031336561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeuchtBlumeSteangel_19
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 0
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c4f62cbd208d0449f33d4613fcf64c
+      internalID: -2326336473155948299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a1078aa337ff16f4abd235ac3e508e28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LeuchtBlumeSteangel_0: 4218801045861593977
+      LeuchtBlumeSteangel_7: -914217358565247568
+      LeuchtBlumeSteangel_13: -6059504519377885045
+      LeuchtBlumeSteangel_3: 7024368216230017139
+      LeuchtBlumeSteangel_11: 8679794046672197773
+      LeuchtBlumeSteangel_4: -4279273663358002085
+      LeuchtBlumeSteangel_17: -6813214697759217538
+      LeuchtBlumeSteangel_14: 7909823192424038784
+      LeuchtBlumeSteangel_15: 3829727593470829746
+      LeuchtBlumeSteangel_1: 8215592110893744074
+      LeuchtBlumeSteangel_16: -6830007691651132737
+      LeuchtBlumeSteangel_6: -5160249311976910447
+      LeuchtBlumeSteangel_9: -4877817996506500193
+      LeuchtBlumeSteangel_12: 6114584153808442012
+      LeuchtBlumeSteangel_2: -1177282666509545087
+      LeuchtBlumeSteangel_5: 2581188274112307527
+      LeuchtBlumeSteangel_10: -7951411786436176336
+      LeuchtBlumeSteangel_8: -7944600614067361923
+      LeuchtBlumeSteangel_19: -2326336473155948299
+      LeuchtBlumeSteangel_18: -1067483849031336561
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

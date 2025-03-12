@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 4ce8aabc17abe4441bff51f45a71c817
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3947576925035803923
+    second: PartikelVulkan_0
+  - first:
+      213: 3689855257713407281
+    second: PartikelVulkan_1
+  - first:
+      213: 165074904879270540
+    second: PartikelVulkan_2
+  - first:
+      213: 6349175544463425801
+    second: PartikelVulkan_3
+  - first:
+      213: -3800965524961740614
+    second: PartikelVulkan_4
+  - first:
+      213: 9157242512208747245
+    second: PartikelVulkan_5
+  - first:
+      213: 367009563481920356
+    second: PartikelVulkan_6
+  - first:
+      213: 735468063844578599
+    second: PartikelVulkan_7
+  - first:
+      213: -8689778258647483276
+    second: PartikelVulkan_8
+  - first:
+      213: 6300615082219775772
+    second: PartikelVulkan_9
+  - first:
+      213: -8193397920626059445
+    second: PartikelVulkan_10
+  - first:
+      213: -3655374765041380571
+    second: PartikelVulkan_11
+  - first:
+      213: 498487303492200531
+    second: PartikelVulkan_12
+  - first:
+      213: 344796972609080840
+    second: PartikelVulkan_13
+  - first:
+      213: 6699571215016138948
+    second: PartikelVulkan_14
+  - first:
+      213: -7075311189018037828
+    second: PartikelVulkan_15
+  - first:
+      213: 3537508807547090571
+    second: PartikelVulkan_16
+  - first:
+      213: 1185713412708343011
+    second: PartikelVulkan_17
+  - first:
+      213: -7715368201470561585
+    second: PartikelVulkan_18
+  - first:
+      213: 8938678741269255973
+    second: PartikelVulkan_19
+  - first:
+      213: 5753818138478292736
+    second: PartikelVulkan_20
+  - first:
+      213: 2173821750037361692
+    second: PartikelVulkan_21
+  - first:
+      213: -4931839591325953606
+    second: PartikelVulkan_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PartikelVulkan_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 24
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b9445c4c98c630800000000000000
+      internalID: 3947576925035803923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 24
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1357d94aecff43330800000000000000
+      internalID: 3689855257713407281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 23
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a09aa50c67a4200800000000000000
+      internalID: 165074904879270540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 23
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9010750b48dcc1850800000000000000
+      internalID: 6349175544463425801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 24
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab836215ef1404bc0800000000000000
+      internalID: -3800965524961740614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 23
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deade463c8f051f70800000000000000
+      internalID: 9157242512208747245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 24
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463d284e041e71500800000000000000
+      internalID: 367009563481920356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 23
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725b911be48e43a00800000000000000
+      internalID: 735468063844578599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 23
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c7764d6b4b76780800000000000000
+      internalID: -8689778258647483276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 21
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17ad220908407750800000000000000
+      internalID: 6300615082219775772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 24
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47d8ad60043b4e80800000000000000
+      internalID: -8193397920626059445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 20
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52318c8a400854dc0800000000000000
+      internalID: -3655374765041380571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 23
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358e1b9bf8bfae600800000000000000
+      internalID: 498487303492200531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 23
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e8eff0507f8c400800000000000000
+      internalID: 344796972609080840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartikelVulkan_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 21
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c818723688a9fc50800000000000000
+      internalID: 6699571215016138948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a1078aa337ff16f4abd235ac3e508e28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PartikelVulkan_4: -3800965524961740614
+      PartikelVulkan_5: 9157242512208747245
+      PartikelVulkan_10: -8193397920626059445
+      PartikelVulkan_13: 344796972609080840
+      PartikelVulkan_0: 3947576925035803923
+      PartikelVulkan_1: 3689855257713407281
+      PartikelVulkan_8: -8689778258647483276
+      PartikelVulkan_3: 6349175544463425801
+      PartikelVulkan_11: -3655374765041380571
+      PartikelVulkan_14: 6699571215016138948
+      PartikelVulkan_2: 165074904879270540
+      PartikelVulkan_12: 498487303492200531
+      PartikelVulkan_6: 367009563481920356
+      PartikelVulkan_7: 735468063844578599
+      PartikelVulkan_9: 6300615082219775772
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

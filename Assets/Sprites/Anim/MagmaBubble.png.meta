@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: 159db97bc06bf1f4eab9f757441fcdd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -475747117196813952
+    second: MagmaBlasen_0
+  - first:
+      213: -2651375371161555144
+    second: MagmaBlasen_1
+  - first:
+      213: -3895731699793316018
+    second: MagmaBlasen_2
+  - first:
+      213: -609516621301384791
+    second: MagmaBlasen_3
+  - first:
+      213: 4727537608274464146
+    second: MagmaBlasen_4
+  - first:
+      213: -1773187874350983664
+    second: MagmaBlasen_5
+  - first:
+      213: 6054493435944861860
+    second: MagmaBlasen_6
+  - first:
+      213: 1075280446071072696
+    second: MagmaBlasen_7
+  - first:
+      213: 8766153417089700836
+    second: MagmaBlasen_8
+  - first:
+      213: -7472107302021979196
+    second: MagmaBlasen_9
+  - first:
+      213: -2424335655269710630
+    second: MagmaBlasen_10
+  - first:
+      213: -3834926264406100434
+    second: MagmaBlasen_11
+  - first:
+      213: 4140338122770704301
+    second: MagmaBlasen_12
+  - first:
+      213: 7607591925845904655
+    second: MagmaBubble_0
+  - first:
+      213: -2814271912092218489
+    second: MagmaBubble_1
+  - first:
+      213: 5082483528022373654
+    second: MagmaBubble_2
+  - first:
+      213: 4865098167968775865
+    second: MagmaBubble_3
+  - first:
+      213: 5052867652709951037
+    second: MagmaBubble_4
+  - first:
+      213: -8482226287064880423
+    second: MagmaBubble_5
+  - first:
+      213: 6131187050073933908
+    second: MagmaBubble_6
+  - first:
+      213: -7188342605945555586
+    second: MagmaBubble_7
+  - first:
+      213: -7824260379619986399
+    second: MagmaBubble_8
+  - first:
+      213: 2874264624960293917
+    second: MagmaBubble_9
+  - first:
+      213: -7323746345015512799
+    second: MagmaBubble_10
+  - first:
+      213: -8822808570212855081
+    second: MagmaBubble_11
+  - first:
+      213: 5334425743145890410
+    second: MagmaBubble_12
+  - first:
+      213: -386607862555521086
+    second: MagmaBubble_13
+  - first:
+      213: -1774914635182292127
+    second: MagmaBubble_14
+  - first:
+      213: -4107055527504309600
+    second: MagmaBubble_15
+  - first:
+      213: -6115104509314441336
+    second: MagmaBubble_16
+  - first:
+      213: 1689940561250520309
+    second: MagmaBubble_17
+  - first:
+      213: 2026167674271151882
+    second: MagmaBubble_18
+  - first:
+      213: -7392545025051250764
+    second: MagmaBubble_19
+  - first:
+      213: -3282817156578674190
+    second: MagmaBubble_20
+  - first:
+      213: -6263817996215399387
+    second: MagmaBubble_21
+  - first:
+      213: -4485883434627205601
+    second: MagmaBubble_22
+  - first:
+      213: -451174995009132622
+    second: MagmaBubble_23
+  - first:
+      213: -3376099683241971767
+    second: MagmaBubble_24
+  - first:
+      213: 3489944401082112973
+    second: MagmaBubble_25
+  - first:
+      213: 8462549225667417755
+    second: MagmaBubble_26
+  - first:
+      213: 6307791803863651134
+    second: MagmaBubble_27
+  - first:
+      213: 440244722770463874
+    second: MagmaBubble_28
+  - first:
+      213: -5307146484655854116
+    second: MagmaBubble_29
+  - first:
+      213: 7915547133030653919
+    second: MagmaBubble_30
+  - first:
+      213: 7339068957698376424
+    second: MagmaBubble_31
+  - first:
+      213: -5118189938079600571
+    second: MagmaBubble_32
+  - first:
+      213: 6733382532833164509
+    second: MagmaBubble_33
+  - first:
+      213: -1290563150423669977
+    second: MagmaBubble_34
+  - first:
+      213: -3420811029427529329
+    second: MagmaBubble_35
+  - first:
+      213: -2280666627641419256
+    second: MagmaBubble_36
+  - first:
+      213: -5375364091032724181
+    second: MagmaBubble_37
+  - first:
+      213: 1643247816394239932
+    second: MagmaBubble_38
+  - first:
+      213: 7699674960217406763
+    second: MagmaBubble_39
+  - first:
+      213: -626259226843175878
+    second: MagmaBubble_40
+  - first:
+      213: 8130297899293929664
+    second: MagmaBubble_41
+  - first:
+      213: -2680045560665399850
+    second: MagmaBubble_42
+  - first:
+      213: -921662059091505607
+    second: MagmaBubble_43
+  - first:
+      213: 8032477627751432924
+    second: MagmaBubble_44
+  - first:
+      213: 798796442715587633
+    second: MagmaBubble_45
+  - first:
+      213: 2911905059992362546
+    second: MagmaBubble_46
+  - first:
+      213: 9098679516829373194
+    second: MagmaBubble_47
+  - first:
+      213: -7627181617502692854
+    second: MagmaBubble_48
+  - first:
+      213: -2684956418701000587
+    second: MagmaBubble_49
+  - first:
+      213: -4856294595845749804
+    second: MagmaBubble_50
+  - first:
+      213: -7933547453289425959
+    second: MagmaBubble_51
+  - first:
+      213: 2650962171475177941
+    second: MagmaBubble_52
+  - first:
+      213: 4174365561626064912
+    second: MagmaBubble_53
+  - first:
+      213: 2286708229190903530
+    second: MagmaBubble_54
+  - first:
+      213: -1852967361218836518
+    second: MagmaBubble_55
+  - first:
+      213: -4869190637641246603
+    second: MagmaBubble_56
+  - first:
+      213: 1079029714808939245
+    second: MagmaBubble_57
+  - first:
+      213: 6801214887340963986
+    second: MagmaBubble_58
+  - first:
+      213: 1145501791562708997
+    second: MagmaBubble_59
+  - first:
+      213: -7028649533599871567
+    second: MagmaBubble_60
+  - first:
+      213: 697982249063170100
+    second: MagmaBubble_61
+  - first:
+      213: 687849440260739028
+    second: MagmaBubble_62
+  - first:
+      213: 8168952776533072077
+    second: MagmaBubble_63
+  - first:
+      213: -370577057621750383
+    second: MagmaBubble_64
+  - first:
+      213: -7321264504957832609
+    second: MagmaBubble_65
+  - first:
+      213: 162530919073567863
+    second: MagmaBubble_66
+  - first:
+      213: -3760300099107774879
+    second: MagmaBubble_67
+  - first:
+      213: 7233085798335457863
+    second: MagmaBubble_68
+  - first:
+      213: -3050762392556831013
+    second: MagmaBubble_69
+  - first:
+      213: 3335209819040249178
+    second: MagmaBubble_70
+  - first:
+      213: 3672267447663771748
+    second: MagmaBubble_71
+  - first:
+      213: 3069758214165238226
+    second: MagmaBubble_72
+  - first:
+      213: 3605944275539842547
+    second: MagmaBubble_73
+  - first:
+      213: 2113170069868395129
+    second: MagmaBubble_74
+  - first:
+      213: -4174090819227362780
+    second: MagmaBubble_75
+  - first:
+      213: 2426316831351678932
+    second: MagmaBubble_76
+  - first:
+      213: -1683304414095752749
+    second: MagmaBubble_77
+  - first:
+      213: 9169948563386858134
+    second: MagmaBubble_78
+  - first:
+      213: 1853649668735262671
+    second: MagmaBubble_79
+  - first:
+      213: -833785700909969418
+    second: MagmaBubble_80
+  - first:
+      213: -8271969516540030707
+    second: MagmaBubble_81
+  - first:
+      213: 456037844520995112
+    second: MagmaBubble_82
+  - first:
+      213: -3207618712832156212
+    second: MagmaBubble_83
+  - first:
+      213: 2664269788491258072
+    second: MagmaBubble_84
+  - first:
+      213: 1845497878432727332
+    second: MagmaBubble_85
+  - first:
+      213: -9059340125375498559
+    second: MagmaBubble_86
+  - first:
+      213: 1599422302390791567
+    second: MagmaBubble_87
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 86
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MagmaBlasen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089519c748ec569f0800000000000000
+      internalID: -475747117196813952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaBlasen_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 888
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f22b3c52c643bd0800000000000000
+      internalID: -2651375371161555144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaBlasen_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e473795d8a49fe9c0800000000000000
+      internalID: -3895731699793316018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaBlasen_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 740
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a972aebcdf8a87f0800000000000000
+      internalID: -609516621301384791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaBlasen_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dcf7b38669b9140800000000000000
+      internalID: 4727537608274464146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaBlasen_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 592
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0169745e50f5467e0800000000000000
+      internalID: -1773187874350983664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaBlasen_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a08d60b3b1e50450800000000000000
+      internalID: 6054493435944861860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaBlasen_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 444
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b76dfd5ed92cee00800000000000000
+      internalID: 1075280446071072696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaBlasen_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e355387612a7a970800000000000000
+      internalID: 8766153417089700836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaBlasen_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 296
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3a06b6ffdbd4890800000000000000
+      internalID: -7472107302021979196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaBlasen_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4c553f0970b5ed0800000000000000
+      internalID: -2424335655269710630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaBlasen_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 148
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26324e71ea97cac0800000000000000
+      internalID: -3834926264406100434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaBlasen_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da761c1169f657930800000000000000
+      internalID: 4140338122770704301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a1078aa337ff16f4abd235ac3e508e28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MagmaBlasen_2: -3895731699793316018
+      MagmaBlasen_7: 1075280446071072696
+      MagmaBlasen_4: 4727537608274464146
+      MagmaBlasen_5: -1773187874350983664
+      MagmaBlasen_6: 6054493435944861860
+      MagmaBlasen_0: -475747117196813952
+      MagmaBlasen_1: -2651375371161555144
+      MagmaBlasen_11: -3834926264406100434
+      MagmaBlasen_9: -7472107302021979196
+      MagmaBlasen_3: -609516621301384791
+      MagmaBlasen_8: 8766153417089700836
+      MagmaBlasen_10: -2424335655269710630
+      MagmaBlasen_12: 4140338122770704301
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

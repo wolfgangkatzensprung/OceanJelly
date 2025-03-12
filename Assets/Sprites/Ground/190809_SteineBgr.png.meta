@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: e5d18955ced7f3e429d0e0939a0a157a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3641807121431695627
+    second: 190809_SteineBgr_0
+  - first:
+      213: -7572979605507035233
+    second: 190809_SteineBgr_1
+  - first:
+      213: 9027171665632809128
+    second: 190809_SteineBgr_2
+  - first:
+      213: 5768386934330734983
+    second: 190809_SteineBgr_3
+  - first:
+      213: -2417128359341158824
+    second: 190809_SteineBgr_4
+  - first:
+      213: -4770645736964415009
+    second: 190809_SteineBgr_5
+  - first:
+      213: 460041089380231717
+    second: 190809_SteineBgr_6
+  - first:
+      213: -9191516044688339279
+    second: 190809_SteineBgr_7
+  - first:
+      213: 1545943302091582704
+    second: 190809_SteineBgr_8
+  - first:
+      213: -430345210148442006
+    second: 190809_SteineBgr_9
+  - first:
+      213: -2726604921337984024
+    second: 190809_SteineBgr_10
+  - first:
+      213: -6972077302031670826
+    second: 190809_SteineBgr_11
+  - first:
+      213: 6556576982411298010
+    second: 190809_SteineBgr_12
+  - first:
+      213: -5897534965413119090
+    second: 190809_SteineBgr_13
+  - first:
+      213: -1258407084141396213
+    second: 190809_SteineBgr_14
+  - first:
+      213: 7751724334744898400
+    second: 190809_SteineBgr_15
+  - first:
+      213: 405358938342006134
+    second: 190809_SteineBgr_16
+  - first:
+      213: 6377702910276503173
+    second: 190809_SteineBgr_17
+  - first:
+      213: -3035826339356823725
+    second: 190809_SteineBgr_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 190809_SteineBgr_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3779
+        width: 1036
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7af164f599cda546b3df2d7ddf10920
+      internalID: -3641807121431695627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_1
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 3746
+        width: 1280
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082e64a14d160e049b37acdb79da1fba
+      internalID: -7572979605507035233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_2
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 3744
+        width: 1104
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa64a0f81d4176341b2e41c55a341be8
+      internalID: 9027171665632809128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_3
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 3718
+        width: 1125
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a8c2af612aca74f82e8f4614eb0e69
+      internalID: 5768386934330734983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3142
+        width: 1114
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf67c96a1d98bf4f915cbf324256ddd
+      internalID: -2417128359341158824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_5
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 3116
+        width: 1283
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52e0624d31e01e429c1a07011c0d3fb
+      internalID: -4770645736964415009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_6
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2987
+        width: 1180
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3996e9a67fd22814eaf45b24957789fb
+      internalID: 460041089380231717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_7
+      rect:
+        serializedVersion: 2
+        x: 4562
+        y: 2987
+        width: 1142
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e166da5d825e9f40b57e8f48e05817b
+      internalID: -9191516044688339279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1690
+        width: 423
+        height: 1032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b42ab4dfd772de4b8e79efdb4e61e5d
+      internalID: 1545943302091582704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_9
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1690
+        width: 372
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc5edbce5595b144815f6714ff0f4ca
+      internalID: -430345210148442006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1679
+        width: 441
+        height: 1029
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e41ffdd98208b4ba606cabcb5350b0
+      internalID: -2726604921337984024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_11
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 1690
+        width: 396
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1251ca6e038160d4fbaea2b44cd4d9b9
+      internalID: -6972077302031670826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_12
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 1707
+        width: 623
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a036da2f05b5cc641a7c0dc0569c6f0e
+      internalID: 6556576982411298010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_13
+      rect:
+        serializedVersion: 2
+        x: 4842
+        y: 1707
+        width: 582
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81900aaef24b2c746aec833943ff3d99
+      internalID: -5897534965413119090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 975
+        width: 1471
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c426bb5378e4d0b419162ab5166f42db
+      internalID: -1258407084141396213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_15
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 983
+        width: 1574
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abab1fe9cb55fa54298253cdcd2a792d
+      internalID: 7751724334744898400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 173
+        width: 1838
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e96694e3bfed84f9cf25be229aced1
+      internalID: 405358938342006134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_17
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 228
+        width: 1668
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc81d744bcc9ca04bb610e6afea48f40
+      internalID: 6377702910276503173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 190809_SteineBgr_18
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 133
+        width: 1461
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408b42ae19e141e44bb2de6b2cac9598
+      internalID: -3035826339356823725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ad21743ff3f405e4cbd2e50af23843aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      190809_SteineBgr_7: -9191516044688339279
+      190809_SteineBgr_10: -2726604921337984024
+      190809_SteineBgr_0: -3641807121431695627
+      190809_SteineBgr_3: 5768386934330734983
+      190809_SteineBgr_2: 9027171665632809128
+      190809_SteineBgr_17: 6377702910276503173
+      190809_SteineBgr_8: 1545943302091582704
+      190809_SteineBgr_6: 460041089380231717
+      190809_SteineBgr_18: -3035826339356823725
+      190809_SteineBgr_11: -6972077302031670826
+      190809_SteineBgr_16: 405358938342006134
+      190809_SteineBgr_4: -2417128359341158824
+      190809_SteineBgr_5: -4770645736964415009
+      190809_SteineBgr_15: 7751724334744898400
+      190809_SteineBgr_14: -1258407084141396213
+      190809_SteineBgr_9: -430345210148442006
+      190809_SteineBgr_1: -7572979605507035233
+      190809_SteineBgr_13: -5897534965413119090
+      190809_SteineBgr_12: 6556576982411298010
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
