@@ -1,6 +1,6 @@
 # OceanJelly
 
-Ocean Jelly is a 2D Roguelite for Android which combines survivors-like aspects with a more cozy, endless runner-type appeal. As a cute little jellyfish, you explore the depths of the endless ocean, finding treasures, dungeons and dangerous deep sea creatures who are not expecting a tiny jellyfish to disturb their eternal slumber.
+This 2D roguelite for Android blends survivors-like mechanics with a smooth, free-flowing experience. As a cute little jellyfish, you explore the depths of the endless ocean, finding treasures, dungeons and fighting dangerous deep sea creatures.
 
 It was made with Unity 2021.3 and was in development for around 2-3 months in the beginning of 2023 with a team of 1 engineer and 1 artist. The game has not yet been released.
 
@@ -16,4 +16,3 @@ It was made with Unity 2021.3 and was in development for around 2-3 months in th
 
 ![OceanJelly_IceCaveCombat](https://github.com/user-attachments/assets/c83e4d2e-2b6b-4718-bfc0-31f175cf599c)
 
-#
